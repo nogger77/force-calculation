@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nock"
+  given-names: "Volker"
+  orcid: "https://orcid.org/0000-0001-5452-3083"
+title: "Pillar Force Calculation"
+version: 1.0.0
+doi: 10.5281/zenodo.8404864 
+date-released: 2023-10-04
+url: "https://github.com/nogger77/force-calculation"
